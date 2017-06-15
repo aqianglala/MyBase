@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--在5.0之前，会默认就有一个外边距（不过并非是margin，只是效果相同）-->
+    <dimen name="fab_margin">0dp</dimen>
+</resources>
